@@ -1,2 +1,2 @@
 # EasyOA
-this 2 3
+this is a easy project management for work, and it was built by beginner.
